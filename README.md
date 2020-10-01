@@ -12,7 +12,7 @@ Learning C# Since June 2019
 
 Learning C++ Since October 2020
 
-Using Discord.js for Ichigo bot (https://ichigo.netlify.app)
+Using Discord.js for Ichigo bot (https://top.gg/bot/697583455029952542)
 
 
 
