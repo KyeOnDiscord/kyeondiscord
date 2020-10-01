@@ -4,12 +4,15 @@ My name is Kye (also known as this shitty named called "ProMasterBoy"
 
 Pro Swapper (Fortnite Skin Swapper)
 
+Other small shitty projects
+
 - 💻Coding Languages:
 
 Learning C# Since June 2019
 
 Learning C++ Since October 2020
 
+Using Discord.js for Ichigo bot (https://ichigo.netlify.app)
 
 
 
