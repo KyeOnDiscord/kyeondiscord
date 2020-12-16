@@ -1,10 +1,10 @@
 ### Hello there 👋
-My name is Kye (also known as this shitty named called "ProMasterBoy"
+My name is Kye
 - 🖊I’m currently working on:
 
 Pro Swapper (Fortnite Skin Swapper)
 
-Other small shitty projects
+Other small projects
 
 - 💻Coding Languages:
 
