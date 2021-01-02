@@ -1,19 +1,13 @@
-### Hello there 👋
+### Hello there 
 My name is Kye
-- 🖊I’m currently working on:
 
-Pro Swapper (Fortnite Skin Swapper)
+**⭐Highlight Projects:**
+Here are the repositories which are probably the most useful I have
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeondiscord&repo=discord-webhook-tutorial-embed)](https://github.com/kyeondiscord/discord-webhook-tutorial-embed)
 
-Other small projects
-
-- 💻Coding Languages:
-
-Learning C# Since June 2019
-
-Learning C++ Since October 2020
-
-Using Discord.js for Ichigo bot (https://top.gg/bot/697583455029952542)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeondiscord&repo=ip-grabber-creator)](https://github.com/kyeondiscord/ip-grabber-creator)
 
 
 
-<h3> Not sure how you got here but thanks for reading :) </h3>
+![](https://github-readme-stats.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeondiscord&layout=default&theme=dark)
