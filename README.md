@@ -10,3 +10,5 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
 
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4D37MY)
