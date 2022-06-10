@@ -8,6 +8,7 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeondiscord&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other&custom_title=Kye%27s%20programming%20activity%20from%20the%20last%207%20days)
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
