@@ -1,8 +1,7 @@
 ### Hello! 👋
 My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users/686800430176665621)
 
-**My Desktop**:
-
+**My PC Specs**:
 ![Windows 10 Pro](https://img.shields.io/badge/Windows-10_Pro-blue?logo=windows)
 ![Intel i9-10850K](https://img.shields.io/badge/i9-10850K-blue?logo=intel)
 ![RTX 3070Ti](https://img.shields.io/badge/RTX-3070Ti-76b900?logo=nvidia)
@@ -16,9 +15,7 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
 
 ![](https://github-readme-stats.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeondiscord&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other&custom_title=Kye%27s%20programming%20activity%20from%20the%20last%207%20days)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats)
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
