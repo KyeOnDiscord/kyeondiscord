@@ -10,10 +10,10 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
 <br>
 <br>
 
-![https://discord.com/users/686800430176665621](https://discord.c99.nl/widget/theme-4/686800430176665621.png)
+![https://discord.com/users/686800430176665621](https://discord.c99.nl/widget/theme-2/686800430176665621.png)
 
 
-![](https://github-readme-stats.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats)
 
