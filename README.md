@@ -10,7 +10,10 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
 <br>
 <br>
 
-![https://discord.com/users/686800430176665621](https://discord.c99.nl/widget/theme-2/686800430176665621.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/686800430176665621.png">
+  <img src="https://discord.c99.nl/widget/theme-5/686800430176665621.png">
+</picture>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10)
