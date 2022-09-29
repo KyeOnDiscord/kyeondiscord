@@ -2,7 +2,7 @@
 My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users/686800430176665621)
 
 **My PC Specs**:
-![Windows 10 Pro](https://img.shields.io/badge/Windows-10_Pro-blue?logo=windows)
+![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Intel i9-10850K](https://img.shields.io/badge/i9-10850K-blue?logo=intel)
 ![RTX 3070Ti](https://img.shields.io/badge/RTX-3070Ti-76b900?logo=nvidia)
 ![Gigabyte Aorus Motherboard Z490 Vision D](https://img.shields.io/badge/Motherboard-Z490%20Vision%20D-orange?logo=PCGamingWiki)
