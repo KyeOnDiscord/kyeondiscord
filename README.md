@@ -19,7 +19,8 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
   <img src="https://discord.c99.nl/widget/theme-5/686800430176665621.png">
 </picture>
 <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false" width="300" /> 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&redirect=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&theme=github_dark&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-dark-mode-only">
