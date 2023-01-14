@@ -19,15 +19,18 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#5000**](https://discord.com/users
   <img src="https://discord.c99.nl/widget/theme-5/686800430176665621.png">
 </picture>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=github_dark&border_radius=10">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10">
-</picture>
-<br>
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false" width="300" /> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&theme=github_dark&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-dark-mode-only">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-light-mode-only">
+  <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-light-mode-only">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=github_dark&border_radius=10">
+  <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10">
+</picture>
+
 
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
