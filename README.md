@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users/686800430176665621)
+My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users/435169824017088512)
 
 **My PC Specs**:
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
