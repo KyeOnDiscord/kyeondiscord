@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users/435169824017088512)
+My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users/686800430176665621)
 
 **My PC Specs**:
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
@@ -14,13 +14,9 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4D37MY)
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/435169824017088512.png">
-  <img src="https://discord.c99.nl/widget/theme-5/435169824017088512.png">
-</picture>
+  <img src="https://discord.c99.nl/widget/theme-4/435169824017088512.png">
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&redirect=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&theme=github_dark&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-dark-mode-only">
@@ -33,6 +29,6 @@ My name is **Kye**, **KyeOnDiscord** or [**Kye#6738**](https://discord.com/users
 </picture>
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&redirect=true)
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
-
