@@ -25,7 +25,4 @@ My name is **Kye**
   <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10">
 </picture>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=promasterboy&redirect=true)
-
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
