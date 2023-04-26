@@ -14,17 +14,6 @@ My name is **Kye**
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4D37MY)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&theme=github_dark&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-dark-mode-only">
-  <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=kyeondiscord&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-light-mode-only">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=github_dark&border_radius=10">
-  <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10">
-</picture>
-
 <!--START_SECTION:waka-->
 
 ```text
