@@ -28,8 +28,6 @@ My name is **Kye**
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 492 hrs 59 mins
-
 Other          376 hrs 5 mins  ██████████▓░░░░░░░░░░░░░░   43.27 %
 ```
 
