@@ -17,10 +17,9 @@ My name is **Kye**
 <!--START_SECTION:waka-->
 
 ```text
-HTML          81 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-C#            80 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-JavaScript    57 hrs 22 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Other         53 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+From: 09 March 2022 - To: 25 April 2023
+
+Other          376 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.27 %
 ```
 
 <!--END_SECTION:waka-->
