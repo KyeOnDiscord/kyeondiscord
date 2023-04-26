@@ -25,4 +25,7 @@ My name is **Kye**
   <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyeondiscord&show_icons=true&include_all_commits=true&theme=buefy&border_radius=10">
 </picture>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
