@@ -26,6 +26,16 @@ My name is **Kye**
 </picture>
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   41.37 %
+JavaScript   46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+C#           45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+HTML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Binary       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+```
+
 <!--END_SECTION:waka-->
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
