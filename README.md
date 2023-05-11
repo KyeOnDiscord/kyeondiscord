@@ -17,7 +17,7 @@ My name is **Kye**
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2023 - To: 08 May 2023
+From: 09 April 2023 - To: 09 May 2023
 
 HTML          11 hrs 54 mins  ########-----------------   33.06 %
 Vue.js        11 hrs 44 mins  ########-----------------   32.62 %
