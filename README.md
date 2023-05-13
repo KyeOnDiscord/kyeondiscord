@@ -17,13 +17,13 @@ My name is **Kye**
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 10 May 2023
+From: 11 April 2023 - To: 11 May 2023
 
-HTML          11 hrs 54 mins  ########-----------------   33.00 %
-Vue.js        11 hrs 45 mins  ########-----------------   32.57 %
-JavaScript    4 hrs 12 mins   ###----------------------   11.68 %
-C#            1 hr 55 mins    #------------------------   05.33 %
-JSON          1 hr 33 mins    #------------------------   04.30 %
+HTML          11 hrs 54 mins  ########-----------------   32.96 %
+Vue.js        11 hrs 45 mins  ########-----------------   32.53 %
+JavaScript    4 hrs 13 mins   ###----------------------   11.71 %
+C#            1 hr 55 mins    #------------------------   05.32 %
+JSON          1 hr 34 mins    #------------------------   04.38 %
 ```
 
 <!--END_SECTION:waka-->
