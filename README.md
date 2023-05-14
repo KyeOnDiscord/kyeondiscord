@@ -1,6 +1,8 @@
 ### Hello! 👋
 My name is **Kye**
 
+Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I make
+
 **My PC Specs**:
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Intel i9-10850K](https://img.shields.io/badge/i9-10850K-blue?logo=intel)
