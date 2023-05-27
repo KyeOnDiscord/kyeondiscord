@@ -19,7 +19,7 @@ Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I 
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 24 May 2023
+From: 25 April 2023 - To: 25 May 2023
 
 Vue.js        16 hrs 40 mins  ############-------------   47.03 %
 JavaScript    8 hrs 59 mins   ######-------------------   25.38 %
