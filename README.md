@@ -19,13 +19,13 @@ Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 28 June 2023
+From: 30 May 2023 - To: 29 June 2023
 
-Vue.js             25 hrs 25 mins  ############-------------   47.21 %
-JavaScript         18 hrs 9 mins   ########-----------------   33.71 %
-Python             3 hrs 44 mins   ##-----------------------   06.94 %
-JSON               2 hrs 3 mins    #------------------------   03.83 %
-reStructuredText   1 hr 54 mins    #------------------------   03.53 %
+Vue.js             24 hrs 7 mins   ############-------------   48.62 %
+JavaScript         16 hrs 26 mins  ########-----------------   33.15 %
+Python             3 hrs 13 mins   ##-----------------------   06.51 %
+JSON               1 hr 58 mins    #------------------------   04.00 %
+reStructuredText   1 hr 54 mins    #------------------------   03.83 %
 ```
 
 <!--END_SECTION:waka-->
