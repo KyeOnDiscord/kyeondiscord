@@ -1,6 +1,11 @@
 ### Hello! 👋
 My name is **Kye**
 
+I'm fluent in C#, JavaScript, Vue.js, HTML, CSS, Python & C++
+
+Protocols & Standards I'm familiar with: HTTP(S), WebSockets, JSON Web Tokens, JSON, YAML, Markdown, TOML
+
+
 Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I make
 
 **My PC Specs**:
