@@ -24,12 +24,12 @@ Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2023 - To: 25 September 2023
+From: 27 August 2023 - To: 26 September 2023
 
-JavaScript         25 hrs 12 mins  ################---------   64.54 %
-HTML               5 hrs 34 mins   ####---------------------   14.27 %
-Vue.js             3 hrs 2 mins    ##-----------------------   07.79 %
-JSON               2 hrs 7 mins    #------------------------   05.46 %
+JavaScript         24 hrs 59 mins  ################---------   64.09 %
+HTML               5 hrs 34 mins   ####---------------------   14.29 %
+Vue.js             3 hrs 2 mins    ##-----------------------   07.80 %
+JSON               2 hrs 14 mins   #------------------------   05.76 %
 Python             1 hr 18 mins    #------------------------   03.35 %
 ```
 
