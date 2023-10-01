@@ -24,7 +24,7 @@ Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 28 September 2023
+From: 30 August 2023 - To: 29 September 2023
 
 JavaScript         19 hrs 23 mins  ################---------   62.45 %
 HTML               3 hrs 47 mins   ###----------------------   12.20 %
