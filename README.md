@@ -24,7 +24,7 @@ Join my [Discord server](https://discord.gg/wjWwSgm7Ra) for updates on things I 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 14 October 2023
+From: 15 September 2023 - To: 15 October 2023
 
 JavaScript         19 hrs 4 mins   ###################------   74.12 %
 JSON               2 hrs 4 mins    ##-----------------------   08.06 %
