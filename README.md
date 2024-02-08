@@ -15,7 +15,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 05 February 2024
+From: 07 January 2024 - To: 06 February 2024
 
 JavaScript    12 hrs 28 mins  #######------------------   27.67 %
 C#            8 hrs 6 mins    ####---------------------   17.99 %
