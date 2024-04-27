@@ -15,7 +15,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 24 April 2024
+From: 26 March 2024 - To: 25 April 2024
 
 JavaScript   11 hrs 25 mins  ###################------   74.80 %
 Vue.js       43 mins         #------------------------   04.72 %
