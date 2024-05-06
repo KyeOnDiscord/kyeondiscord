@@ -15,13 +15,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 03 May 2024
+From: 04 April 2024 - To: 04 May 2024
 
-JavaScript   2 hrs 52 mins   ###########--------------   43.22 %
-HTML         1 hr 7 mins     ####---------------------   17.04 %
-Vue.js       39 mins         ##-----------------------   09.95 %
-C#           34 mins         ##-----------------------   08.64 %
-EJS          21 mins         #------------------------   05.50 %
+JavaScript   2 hrs 44 mins   ##########---------------   40.07 %
+HTML         1 hr 29 mins    #####--------------------   21.80 %
+Vue.js       39 mins         ##-----------------------   09.66 %
+C#           34 mins         ##-----------------------   08.39 %
+EJS          21 mins         #------------------------   05.34 %
 ```
 
 <!--END_SECTION:waka-->
