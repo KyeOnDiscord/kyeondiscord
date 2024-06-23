@@ -15,7 +15,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2024 - To: 20 June 2024
+From: 22 May 2024 - To: 21 June 2024
 
 Python   11 hrs 34 mins  #######################--   93.67 %
 JSON     24 mins         #------------------------   03.25 %
