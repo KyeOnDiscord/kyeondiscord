@@ -15,13 +15,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 05 July 2024
+From: 06 June 2024 - To: 06 July 2024
 
-Python       5 hrs 11 mins   #######################--   93.26 %
-JavaScript   17 mins         #------------------------   05.37 %
-Bash         2 mins          -------------------------   00.75 %
-JSON         1 min           -------------------------   00.39 %
-Text         0 secs          -------------------------   00.22 %
+Python       5 hrs 19 mins   ######################---   88.13 %
+JavaScript   30 mins         ##-----------------------   08.42 %
+HTML         5 mins          -------------------------   01.50 %
+Text         3 mins          -------------------------   00.89 %
+Bash         2 mins          -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
