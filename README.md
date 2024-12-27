@@ -17,12 +17,9 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 24 December 2024
+From: 25 November 2024 - To: 25 December 2024
 
-HTML         10 mins         #########----------------   34.22 %
-TypeScript   8 mins          #######------------------   28.20 %
-JSON         7 mins          #######------------------   26.31 %
-JavaScript   3 mins          ###----------------------   11.27 %
+HTML   10 mins         #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
