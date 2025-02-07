@@ -17,10 +17,9 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 04 February 2025
+From: 06 January 2025 - To: 05 February 2025
 
-HTML   9 mins          ######################---   87.85 %
-CSS    1 min           ###----------------------   12.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
