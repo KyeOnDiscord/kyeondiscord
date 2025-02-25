@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is **Kye**.
+My name is **Kye**. I'm currenty studying a Bachelor of Computer Science at Monash University
 
 I'm familiar with C++, C#, JavaScript,Vue.js, HTML, CSS & Python
 
