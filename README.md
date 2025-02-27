@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 24 February 2025
+From: 26 January 2025 - To: 25 February 2025
 
 C++        43 mins         ########-----------------   32.65 %
 Python     36 mins         #######------------------   27.36 %
