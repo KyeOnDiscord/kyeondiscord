@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 19 April 2025
+From: 21 March 2025 - To: 20 April 2025
 
 Python       5 hrs 22 mins   #########----------------   37.70 %
 Vue.js       3 hrs 31 mins   ######-------------------   24.70 %
