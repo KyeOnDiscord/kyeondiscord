@@ -17,13 +17,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 18 May 2025
+From: 19 April 2025 - To: 19 May 2025
 
-Python       13 hrs 50 mins  #################--------   66.63 %
-HTML         2 hrs 23 mins   ###----------------------   11.50 %
-CSS          1 hr 8 mins     #------------------------   05.49 %
-Vue.js       1 hr 8 mins     #------------------------   05.48 %
-JavaScript   1 hr 1 min      #------------------------   04.91 %
+Python       13 hrs 50 mins  ###############----------   59.25 %
+HTML         3 hrs 33 mins   ####---------------------   15.21 %
+CSS          1 hr 32 mins    ##-----------------------   06.62 %
+Vue.js       1 hr 8 mins     #------------------------   04.88 %
+JavaScript   1 hr 1 min      #------------------------   04.37 %
 ```
 
 <!--END_SECTION:waka-->
