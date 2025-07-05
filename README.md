@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 02 July 2025
+From: 03 June 2025 - To: 03 July 2025
 
 HTML         3 hrs 20 mins   ######-------------------   23.03 %
 C++          3 hrs 9 mins    #####--------------------   21.77 %
