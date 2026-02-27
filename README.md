@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 24 February 2026
+From: 26 January 2026 - To: 25 February 2026
 
 HTML    2 hrs 40 mins         #####################----   82.95 %
 CSS     32 mins               ####---------------------   17.03 %
