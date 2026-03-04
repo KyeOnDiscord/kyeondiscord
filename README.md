@@ -17,11 +17,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2026 - To: 01 March 2026
+From: 31 January 2026 - To: 02 March 2026
 
-HTML    2 hrs 40 mins         #####################----   82.95 %
-CSS     32 mins               ####---------------------   17.03 %
-Other   0 secs                -------------------------   00.01 %
+HTML       2 hrs 40 mins         ####################-----   81.46 %
+CSS        32 mins               ####---------------------   16.73 %
+Other      3 mins                -------------------------   01.63 %
+Markdown   0 secs                -------------------------   00.09 %
+Text       0 secs                -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
