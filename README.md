@@ -17,13 +17,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 31 March 2026
+From: 02 March 2026 - To: 01 April 2026
 
-Other        49 mins               #######------------------   27.73 %
-Kotlin       46 mins               ######-------------------   25.70 %
-SQL          28 mins               ####---------------------   15.73 %
-JavaScript   21 mins               ###----------------------   11.79 %
-Git Config   11 mins               ##-----------------------   06.16 %
+Other        46 mins               #######------------------   26.46 %
+Kotlin       46 mins               #######------------------   26.20 %
+SQL          28 mins               ####---------------------   16.03 %
+JavaScript   21 mins               ###----------------------   12.06 %
+Git Config   11 mins               ##-----------------------   06.28 %
 ```
 
 <!--END_SECTION:waka-->
