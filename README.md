@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2026 - To: 03 April 2026
+From: 05 March 2026 - To: 04 April 2026
 
 Other        46 mins               #######------------------   26.46 %
 Kotlin       46 mins               #######------------------   26.20 %
