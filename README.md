@@ -17,7 +17,7 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 30 May 2026
+From: 01 May 2026 - To: 31 May 2026
 
 SQL          6 hrs 37 mins         ################---------   63.06 %
 JavaScript   1 hr 23 mins          ###----------------------   13.20 %
