@@ -17,13 +17,13 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 02 June 2026
+From: 04 May 2026 - To: 03 June 2026
 
-SQL          6 hrs 37 mins         #################--------   69.99 %
-JavaScript   1 hr 23 mins          ####---------------------   14.67 %
-Text         1 hr 15 mins          ###----------------------   13.38 %
-JSON         6 mins                -------------------------   01.09 %
-Bash         1 min                 -------------------------   00.30 %
+SQL          5 hrs 12 mins         ################---------   65.86 %
+JavaScript   1 hr 24 mins          ####---------------------   17.72 %
+Text         1 hr 7 mins           ####---------------------   14.13 %
+JSON         6 mins                -------------------------   01.30 %
+Bash         1 min                 -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
