@@ -17,11 +17,12 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 28 July 2026
+From: 29 June 2026 - To: 29 July 2026
 
-Python            16 mins               #########################   99.58 %
-Java Properties   0 secs                -------------------------   00.34 %
-JSON              0 secs                -------------------------   00.08 %
+Python            16 mins               ###################------   77.73 %
+JSON              4 mins                #####--------------------   18.88 %
+JavaScript        0 secs                #------------------------   03.12 %
+Java Properties   0 secs                -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
