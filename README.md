@@ -13,11 +13,11 @@ My Programming Statistics in the last 30 days:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 12 August 2026
+From: 14 July 2026 - To: 13 August 2026
 
-JSON         10 mins               #################--------   68.29 %
-HTML         4 mins                #######------------------   27.26 %
-JavaScript   0 secs                #------------------------   04.45 %
+JSON         27 mins               #####################----   83.88 %
+HTML         4 mins                ###----------------------   12.84 %
+JavaScript   1 min                 #------------------------   03.28 %
 ```
 
 <!--END_SECTION:waka-->
